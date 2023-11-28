@@ -31,6 +31,6 @@ if __name__ == "__main__":
     print(f"Merged PDF saved as {output_filename}")
 
 
-
-
-
+#Replace "file1.pdf", "file2.pdf", etc., with the actual file names you want to merge. 
+# The merged PDF will be saved with the name specified in the output_filename variable.
+#Save this code in a Python file (e.g., merge_pdfs.py) and run it using:
